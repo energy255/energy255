@@ -19,7 +19,7 @@
 ---
 
 📚 Currently Studying
-<p align="center">
+<p align="Left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -30,7 +30,7 @@
 🛠 Tools I Use
 #### 💻 Development
 
-<p align="center">
+<p align="Left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
@@ -38,12 +38,12 @@
 ---
 
 📫 Contact
-<p align="center">
+<p align="Left">
   ✉️ anyjunelee@gmail.com
 </p>
 
 ---
 
-<div align="center">
+<div align="Left">
   <img src="https://komarev.com/ghpvc/?username=oka1313&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
