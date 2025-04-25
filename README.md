@@ -1,11 +1,11 @@
-<div align="center">
+<div align="Left">
   <img src="https://github.com/user-attachments/assets/3716e1e6-4df7-4ac0-96cf-22df0320e317" style="Size: 100px;" />
 </div>
 
 <br/>
 
-<h2 align="center">🎮 Welcome to LeeYeJun GitHub! 👨‍💻</h2>
-<p align="center">포기하지 않고 배우는 개발자</p>
+<h2 align="Left">🎮 Welcome to LeeYeJun GitHub! 👨‍💻</h2>
+<p align="Left">포기하지 않고 배우는 개발자</p>
 
 🧰 Tech Stack
 <p align="Left">
