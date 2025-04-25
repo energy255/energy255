@@ -4,8 +4,8 @@
 
 <br/>
 
-<h2 align="center">🎮 Welcome to Wonhee's GitHub! 👨‍💻</h2>
-<p align="center">성실하고 지속적으로 성장한 개발자</p>
+<h2 align="center">🎮 Welcome to LeeYeJun GitHub! 👨‍💻</h2>
+<p align="center">포기하지 않고 배우는 개발자</p>
 
 🧰 Tech Stack
 <p align="center">
