@@ -35,18 +35,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
-#### 🎨 Design
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-</p>
-
 ---
 
 📫 Contact
 <p align="center">
-  ✉️ yoh40401@gmail.com
+  ✉️ anyjunelee@gmail.com
 </p>
 
 ---
